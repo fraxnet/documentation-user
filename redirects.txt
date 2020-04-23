@@ -70,6 +70,7 @@ accounting/others/reporting/customize.rst accounting/reporting/overview/customiz
 accounting/others/reporting/main_reports.rst accounting/reporting/overview/main_reports.rst                       # others/reporting/* --> reporting/overview/*
 accounting/fiscality/taxes/tax_returns.rst accounting/reporting/declarations/tax_returns.rst                      # fiscality/taxes/* --> reporting/declarations/*
 accounting/bank/setup/create_bank_account.rst accounting/bank/setup/bank_accounts.rst                             # create_bank_account -> bank_accounts
+accounting/payables/supplier_bills/bills_or_receipts.rst accounting/payables/supplier_bills/purchase_receipts.rst # bills_or_receipts.rst -> purchase_receipts.rst
 
 social_marketing/social_marketing.rst social_marketing/overview.rst    # social_marketing/* -> overview/* (#578)
 
